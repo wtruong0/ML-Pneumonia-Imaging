@@ -1,4 +1,4 @@
-# Pneumonia Detection from Chest X-rays - wtruong0
+# Pneumonia Detection with Machine Learning
 
 A deep learning project that uses Convolutional Neural Networks (CNNs) to detect pneumonia from chest X-ray images. The model is built using TensorFlow/Keras.
 
